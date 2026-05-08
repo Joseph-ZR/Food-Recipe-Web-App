@@ -1,0 +1,1491 @@
+[
+  {
+    "id": 1,
+    "title": "Pumpkin Pie",
+    "description": "A delicious pumpkin pie recipe with a flaky crust and spiced filling.",
+    "ingredients": [
+      "15 oz pumpkin puree",
+      "1 cup sugar",
+      "2 large eggs",
+      "1 tsp cinnamon",
+      "½ tsp nutmeg",
+      "½ tsp ginger",
+      "¼ tsp cloves",
+      "¼ tsp salt",
+      "1 (9-inch) pie crust"
+    ],
+    "image": "/images/pumpkinPie.png",
+    "directions": [
+      "Preheat oven to 375°F (190°C).",
+      "In a large bowl, mix pumpkin puree, sugar, eggs, and spices.",
+      "Pour the filling into the pie crust.",
+      "Bake for 45–50 minutes or until a knife inserted into the center comes out clean.",
+      "Cool before serving."
+    ],
+    "difficulty": "Expert",
+    "prepTime": "36 minutes",
+    "nutrition": {
+      "calories": 451,
+      "protein_g": 26.5,
+      "fat_g": 24.5,
+      "carbs_g": 56.3
+    }
+  },
+  {
+    "id": 2,
+    "title": "Beef Tacos",
+    "description": "A delicious beef tacos recipe with seasoned ground beef, cheese, and fresh toppings.",
+    "ingredients": [
+      "1 lb ground beef",
+      "2 tbsp taco seasoning",
+      "8 taco shells",
+      "1 cup shredded cheese",
+      "1 cup shredded lettuce",
+      "2 medium tomatoes, diced",
+      "½ cup sour cream"
+    ],
+    "image": "/images/beefTacos.png",
+    "directions": [
+      "Cook the ground beef with taco seasoning in a pan over medium heat.",
+      "Fill taco shells with beef, then top with cheese, lettuce, tomatoes, and sour cream.",
+      "Serve immediately."
+    ],
+    "difficulty": "Easy",
+    "prepTime": "20 minutes",
+    "nutrition": {
+      "calories": 668,
+      "protein_g": 15.7,
+      "fat_g": 30.6,
+      "carbs_g": 54.6
+    }
+  },
+  {
+    "id": 3,
+    "title": "Fish and Chips",
+    "description": "A delicious crispy fish and chips recipe with homemade tartar sauce.",
+    "ingredients": [
+      "1 lb white fish fillets",
+      "4 medium potatoes, cut into fries",
+      "1 cup flour",
+      "1 tsp baking powder",
+      "1 tsp salt",
+      "½ tsp pepper",
+      "4 cups oil for frying",
+      "½ cup tartar sauce"
+    ],
+    "image": "/images/fishAndChips.png",
+    "directions": [
+      "Peel and cut potatoes into fries. Heat oil in a deep fryer or large pot.",
+      "Dip fish fillets into the batter (flour, baking powder, salt, and pepper) and fry until golden brown.",
+      "Fry potatoes until crispy and golden.",
+      "Serve the fish and chips with tartar sauce."
+    ],
+    "difficulty": "Easy",
+    "prepTime": "46 minutes",
+    "nutrition": {
+      "calories": 685,
+      "protein_g": 35.8,
+      "fat_g": 13.9,
+      "carbs_g": 80.7
+    }
+  },
+  {
+    "id": 4,
+    "title": "Chicken Alfredo",
+    "description": "A rich and creamy chicken alfredo pasta with garlic and Parmesan.",
+    "ingredients": [
+      "1 lb chicken breasts",
+      "8 oz fettuccine pasta",
+      "1 cup heavy cream",
+      "2 tbsp butter",
+      "2 cloves garlic, minced",
+      "1 cup grated Parmesan cheese",
+      "1 tbsp olive oil"
+    ],
+    "image": "/images/chickenAlfredo.png",
+    "directions": [
+      "Cook fettucine pasta according to package instructions.",
+      "In a large pan, cook chicken breasts in olive oil until browned and cooked through.",
+      "In the same pan, add garlic, butter, and heavy cream. Stir to combine.",
+      "Add the cooked pasta and chicken. Toss with Parmesan cheese.",
+      "Serve hot."
+    ],
+    "difficulty": "Intermediate",
+    "prepTime": "51 minutes",
+    "nutrition": {
+      "calories": 563,
+      "protein_g": 25.1,
+      "fat_g": 10.5,
+      "carbs_g": 30.9
+    }
+  },
+  {
+    "id": 5,
+    "title": "BBQ Ribs",
+    "description": "Tender and flavorful BBQ ribs, slow-cooked and glazed with barbecue sauce.",
+    "ingredients": [
+      "2 lb pork ribs",
+      "1 cup BBQ sauce",
+      "2 tbsp brown sugar",
+      "1 tbsp paprika",
+      "1 tsp garlic powder",
+      "1 tsp onion powder",
+      "1 tsp salt",
+      "½ tsp pepper"  
+    ],
+    "image": "/images/bbqRibs.png",
+    "directions": [
+      "Preheat the oven to 300°F (150°C).",
+      "Rub the ribs with the seasoning mix (brown sugar, paprika, garlic powder, onion powder, salt, pepper).",
+      "Place ribs on a baking sheet and bake for 2.5–3 hours.",
+      "Glaze with BBQ sauce during the last 20 minutes of baking.",
+      "Serve with extra sauce."
+    ],
+    "difficulty": "Expert",
+    "prepTime": "48 minutes",
+    "nutrition": {
+      "calories": 258,
+      "protein_g": 11.4,
+      "fat_g": 6.4,
+      "carbs_g": 88.6
+    }
+  },
+  {
+    "id": 6,
+    "title": "Pad Thai",
+    "description": "A savory and tangy Pad Thai stir-fried noodle dish with shrimp, eggs, and peanuts.",
+    "ingredients": [
+      "8 oz rice noodles",
+      "½ lb shrimp, peeled",
+      "2 large eggs",
+      "¼ cup peanuts, chopped",
+      "2 cloves garlic, minced",
+      "1 lime, juiced",
+      "3 tbsp soy sauce",
+      "2 tbsp fish sauce",
+      "1 tsp chili flakes"
+    ],
+    "image": "/images/padThai.png",
+    "directions": [
+      "Soak rice noodles in warm water for 20 minutes.",
+      "In a pan, cook shrimp and scrambled eggs. Add garlic and stir-fry noodles.",
+      "Add soy sauce, fish sauce, and chili flakes. Toss to combine.",
+      "Top with peanuts and lime. Serve immediately."
+    ],
+    "difficulty": "Intermediate",
+    "prepTime": "49 minutes",
+    "nutrition": {
+      "calories": 676,
+      "protein_g": 20.6,
+      "fat_g": 20.9,
+      "carbs_g": 22.1
+    }
+  },
+  {
+    "id": 7,
+    "title": "Beef Stroganoff",
+    "description": "A creamy Russian dish made with sautéed beef and mushrooms in a sour cream sauce.",
+    "ingredients": [
+      "1 lb beef sirloin, sliced",
+      "8 oz mushrooms, sliced",
+      "1 medium onion, sliced",
+      "1 cup sour cream",
+      "1 cup beef broth",
+      "2 tbsp butter",
+      "2 tbsp flour",
+      "12 oz egg noodles"
+    ],
+    "image": "/images/BeefStroganoff.png",
+    "directions": [
+      "Slice beef thinly across the grain.",
+      "Sauté onions and mushrooms in butter until soft.",
+      "Add beef and cook until browned.",
+      "Stir in flour, then add broth gradually.",
+      "Simmer for 10 minutes, then stir in sour cream.",
+      "Serve over cooked egg noodles."
+    ],
+    "difficulty": "Expert",
+    "prepTime": "30 minutes",
+    "nutrition": {
+      "calories": 450,
+      "protein_g": 35.0,
+      "fat_g": 25.0,
+      "carbs_g": 28.0
+    }
+  },
+  {
+    "id": 8,
+    "title": "Tomato Soup",
+    "description": "A warm and comforting classic tomato soup.",
+    "ingredients": [
+      "2 lb tomatoes, chopped",
+      "1 medium onion, diced",
+      "2 cloves garlic, minced",
+      "2 tbsp olive oil",
+      "4 cups vegetable broth",
+      "½ cup cream",
+      "¼ cup basil, chopped",
+      "1 tsp salt",
+      "½ tsp pepper"
+    ],
+    "image": "/images/TomatoSoup.png",
+    "directions": [
+      "Sauté onions and garlic in olive oil.",
+      "Add chopped tomatoes and cook for 10 minutes.",
+      "Pour in broth and simmer for 15 minutes.",
+      "Blend until smooth, then add cream and seasonings.",
+      "Simmer another 5 minutes and serve hot with basil."
+    ],
+    "difficulty": "Easy",
+    "prepTime": "25 minutes",
+    "nutrition": {
+      "calories": 180,
+      "protein_g": 5.0,
+      "fat_g": 10.0,
+      "carbs_g": 18.0
+    }
+  },
+  {
+    "id": 9,
+    "title": "Spaghetti Carbonara",
+    "description": "A rich and creamy pasta dish made with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+      "12 oz spaghetti",
+      "2 large eggs",
+      "1 cup grated Parmesan cheese",
+      "4 oz pancetta, chopped",
+      "1 tsp black pepper",
+      "Salt to taste"
+    ],
+    "image": "/images/SpaghettiCarbonara.png",
+    "directions": [
+      "Cook spaghetti until al dente.",
+      "Sauté pancetta until crispy.",
+      "In a bowl, mix eggs, cheese, and pepper.",
+      "Drain pasta and combine quickly with pancetta and egg mixture off the heat.",
+      "Toss until creamy and serve immediately."
+    ],
+    "difficulty": "Easy",
+    "prepTime": "20 minutes",
+    "nutrition": {
+      "calories": 410,
+      "protein_g": 18.0,
+      "fat_g": 15.0,
+      "carbs_g": 50.0
+    }
+  },
+  {
+    "id": 10,
+    "title": "Eggplant Parmesan",
+    "description": "Baked eggplant slices layered with marinara sauce and melted cheese.",
+    "ingredients": [
+      "1 large eggplant, sliced",
+      "2 cups marinara sauce",
+      "1 cup shredded mozzarella cheese",
+      "½ cup grated Parmesan cheese",
+      "2 large eggs, beaten",
+      "1 cup breadcrumbs",
+      "2 tbsp olive oil",
+      "¼ cup basil, chopped"
+    ],
+    "image": "/images/EggplantParmesan.png",
+    "directions": [
+      "Slice eggplant and sprinkle with salt; let sit to remove moisture.",
+      "Dip slices in egg, then breadcrumbs; fry until golden.",
+      "Layer fried eggplant, marinara, and cheeses in a baking dish.",
+      "Bake at 375°F (190°C) for 25 minutes.",
+      "Garnish with basil and serve."
+    ],
+    "difficulty": "Intermediate",
+    "prepTime": "40 minutes",
+    "nutrition": {
+      "calories": 350,
+      "protein_g": 17.0,
+      "fat_g": 22.0,
+      "carbs_g": 25.0
+    }
+  },
+  {
+    "id": 11,
+    "title": "Avocado Toast",
+    "description": "A simple and healthy breakfast with creamy avocado on crisp toast.",
+    "ingredients": [
+      "2 slices bread",
+      "1 ripe avocado",
+      "1 tsp lemon juice",
+      "¼ tsp chili flakes",
+      "Salt to taste",
+      "1 tbsp olive oil"
+    ],
+    "image": "/images/AvocadoToast.png",
+    "directions": [
+      "Toast the bread slices until golden.",
+      "Mash avocado with lemon juice, salt, and chili flakes.",
+      "Spread mashed avocado on toast.",
+      "Drizzle with olive oil and serve."
+    ],
+    "difficulty": "Easy",
+    "prepTime": "10 minutes",
+    "nutrition": {
+      "calories": 280,
+      "protein_g": 6.0,
+      "fat_g": 22.0,
+      "carbs_g": 18.0
+    }
+  },
+  {
+    "id": 12,
+    "title": "Greek Salad",
+    "description": "A refreshing salad made with cucumbers, tomatoes, olives, feta, and a light vinaigrette.",
+    "ingredients": [
+      "1 cucumber, sliced",
+      "2 tomatoes, chopped",
+      "¼ red onion, thinly sliced",
+      "½ cup Kalamata olives",
+      "½ cup feta cheese, crumbled",
+      "2 tbsp olive oil",
+      "1 tbsp red wine vinegar",
+      "1 tsp oregano"
+    ],
+    "image": "/images/GreekSalad.png",
+    "directions": [
+      "Chop cucumber, tomatoes, and red onion.",
+      "Mix with olives and crumbled feta in a bowl.",
+      "Drizzle with olive oil and vinegar.",
+      "Sprinkle with oregano and toss gently.",
+      "Serve chilled or at room temperature."
+    ],
+    "difficulty": "Easy",
+    "prepTime": "15 minutes",
+    "nutrition": {
+      "calories": 220,
+      "protein_g": 6.0,
+      "fat_g": 18.0,
+      "carbs_g": 9.0
+    }
+  },
+  {
+    "id": 13,
+    "title": "Chicken Tikka Masala",
+    "description": "A popular Indian dish featuring marinated chicken in a rich, spiced tomato cream sauce.",
+    "ingredients": [
+      "1 lb chicken thighs",
+      "½ cup yogurt",
+      "2 tbsp garam masala",
+      "2 cloves garlic, minced",
+      "1 tbsp ginger, minced",
+      "1 cup tomato puree",
+      "½ cup heavy cream",
+      "1 tsp cumin",
+      "1 tsp paprika"
+    ],
+    "image": "/images/ChickenTikkaMasala.png",
+    "directions": [
+      "Marinate chicken in yogurt and spices for 1 hour.",
+      "Grill or sear the chicken until cooked through.",
+      "In a pan, cook garlic and ginger, then add tomato puree and spices.",
+      "Simmer sauce, then stir in cream.",
+      "Add chicken to sauce and cook for 10 minutes.",
+      "Serve hot with rice or naan."
+    ],
+    "difficulty": "Intermediate",
+    "prepTime": "45 minutes",
+    "nutrition": {
+      "calories": 500,
+      "protein_g": 32.0,
+      "fat_g": 28.0,
+      "carbs_g": 25.0
+    }
+  },
+  {
+    "id": 14,
+    "title": "Caesar Salad",
+    "description": "A crisp salad with romaine lettuce, croutons, parmesan, and creamy Caesar dressing.",
+    "ingredients": [
+      "1 head Romaine lettuce, chopped",
+      "½ cup Parmesan cheese, shaved",
+      "1 cup croutons",
+      "½ cup Caesar dressing",
+      "1 tbsp lemon juice",
+      "1 tsp anchovy paste (optional)",
+      "Black pepper to taste"
+    ],
+    "image": "/images/CaesarSalad.png",
+    "directions": [
+      "Wash and chop romaine lettuce.",
+      "Toss with Caesar dressing and lemon juice.",
+      "Add croutons and shaved parmesan.",
+      "Sprinkle with pepper and serve immediately."
+    ],
+    "difficulty": "Easy",
+    "prepTime": "15 minutes",
+    "nutrition": {
+      "calories": 260,
+      "protein_g": 8.0,
+      "fat_g": 22.0,
+      "carbs_g": 10.0
+    }
+  },
+  {
+    "id": 15,
+    "title": "Shrimp Scampi",
+    "description": "Succulent shrimp cooked in garlic butter and white wine, served over pasta.",
+    "ingredients": [
+      "8 oz shrimp, peeled",
+      "4 cloves garlic, minced",
+      "2 tbsp butter",
+      "1 tbsp olive oil",
+      "¼ cup white wine",
+      "1 tbsp lemon juice",
+      "2 tbsp parsley, chopped",
+      "8 oz spaghetti"
+    ],
+    "image": "/images/ShrimpScampi.png",
+    "directions": [
+      "Cook pasta until al dente.",
+      "Sauté garlic in butter and olive oil.",
+      "Add shrimp and cook until pink.",
+      "Pour in white wine and lemon juice, simmer briefly.",
+      "Toss with pasta and top with parsley.",
+      "Serve hot."
+    ],
+    "difficulty": "Easy",
+    "prepTime": "25 minutes",
+    "nutrition": {
+      "calories": 420,
+      "protein_g": 24.0,
+      "fat_g": 18.0,
+      "carbs_g": 38.0
+    }
+  },
+  {
+    "id": 16,
+    "title": "Lamb Curry",
+    "description": "A hearty curry made with tender lamb and bold Indian spices.",
+    "ingredients": [
+      "2 lb lamb shoulder, cubed",
+      "1 medium onion, chopped",
+      "2 cloves garlic, minced",
+      "1 tbsp ginger, minced",
+      "2 tomatoes, chopped",
+      "½ cup yogurt",
+      "2 tbsp curry powder",
+      "¼ cup cilantro, chopped"
+    ],
+    "image": "/images/LambCurry.png",
+    "directions": [
+      "Brown lamb in oil and set aside.",
+      "Cook onion, garlic, and ginger until soft.",
+      "Add curry powder and cook 1 minute.",
+      "Add tomatoes and cook until soft.",
+      "Return lamb, add yogurt, and simmer for 1 hour.",
+      "Top with cilantro and serve with rice."
+    ],
+    "difficulty": "Intermediate",
+    "prepTime": "1 hour 20 minutes",
+    "nutrition": {
+      "calories": 600,
+      "protein_g": 35.0,
+      "fat_g": 40.0,
+      "carbs_g": 15.0
+    }
+  },
+  {
+    "id": 17,
+    "title": "Vegetable Stir Fry",
+    "description": "A quick and healthy stir fry with fresh vegetables and savory sauce.",
+    "ingredients": [
+      "2 cups broccoli florets",
+      "1 bell pepper, sliced",
+      "1 cup carrots, sliced",
+      "1 cup snow peas",
+      "2 cloves garlic, minced",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 tsp ginger, minced"
+    ],
+    "image": "/images/VegetableStirFry.png",
+    "directions": [
+      "Heat sesame oil in a wok.",
+      "Add garlic and ginger, cook until fragrant.",
+      "Add all vegetables and stir-fry until crisp-tender.",
+      "Add soy sauce and cook another 2 minutes.",
+      "Serve hot with rice or noodles."
+    ],
+    "difficulty": "Easy",
+    "prepTime": "20 minutes",
+    "nutrition": {
+      "calories": 220,
+      "protein_g": 6.0,
+      "fat_g": 10.0,
+      "carbs_g": 28.0
+    }
+  },
+  {
+    "id": 18,
+    "title": "Grilled Salmon",
+    "description": "A simple and flavorful grilled salmon with lemon and herbs.",
+    "ingredients": [
+      "4 salmon fillets (6 oz each)",
+      "2 tbsp lemon juice",
+      "2 cloves garlic, minced",
+      "2 tbsp olive oil",
+      "2 tbsp dill, chopped",
+      "Salt and pepper to taste"
+    ],
+    "image": "/images/GrilledSalmon.png",
+    "directions": [
+      "Marinate salmon with lemon juice, olive oil, garlic, and herbs for 15 minutes.",
+      "Grill salmon over medium heat for 4–5 minutes per side.",
+      "Serve with lemon wedges and garnish with dill."
+    ],
+    "difficulty": "Easy",
+    "prepTime": "20 minutes",
+    "nutrition": {
+      "calories": 390,
+      "protein_g": 34.0,
+      "fat_g": 25.0,
+      "carbs_g": 2.0
+    }
+  },
+  {
+    "id": 19,
+    "title": "Mushroom Risotto",
+    "description": "A creamy risotto packed with earthy mushrooms and parmesan cheese.",
+    "ingredients": [
+      "1 cup Arborio rice",
+      "8 oz mushrooms, sliced",
+      "1 medium onion, chopped",
+      "2 cloves garlic, minced",
+      "4 cups vegetable broth",
+      "½ cup Parmesan cheese, grated",
+      "2 tbsp butter",
+      "½ cup white wine"
+    ],
+    "image": "/images/MushroomRisotto.png",
+    "directions": [
+      "Sauté onions, garlic, and mushrooms in butter.",
+      "Add rice and toast for 2 minutes.",
+      "Pour in white wine and stir until absorbed.",
+      "Add broth one ladle at a time, stirring until absorbed.",
+      "Repeat until rice is creamy and al dente.",
+      "Stir in cheese and serve warm."
+    ],
+    "difficulty": "Intermediate",
+    "prepTime": "40 minutes",
+    "nutrition": {
+      "calories": 480,
+      "protein_g": 12.0,
+      "fat_g": 16.0,
+      "carbs_g": 65.0
+    }
+  },
+  {
+    "id": 20,
+    "title": "Classic Lasagna",
+    "description": "A hearty Italian dish layered with rich meat sauce, creamy béchamel, and melted cheese.",
+    "ingredients": [
+      "1 lb ground beef",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "24 oz marinara sauce",
+      "12 lasagna noodles",
+      "15 oz ricotta cheese",
+      "2 cups shredded mozzarella cheese",
+      "½ cup grated Parmesan cheese",
+       "1 egg",
+      "Salt and pepper to taste"
+      ],
+      "image": "/images/ClassicLasagna.png",
+      "directions": [
+        "Preheat oven to 375°F (190°C).",
+        "In a skillet, cook ground beef, onion, and garlic until browned. Drain excess fat.",
+        "Add marinara sauce to the meat mixture and simmer for 10 minutes.",
+        "Cook lasagna noodles according to package instructions; drain.",
+        "In a bowl, combine ricotta cheese, egg, Parmesan, salt, and pepper.",
+        "In a baking dish, layer meat sauce, noodles, ricotta mixture, and mozzarella. Repeat layers.",
+        "Cover with foil and bake for 25 minutes. Remove foil and bake for another 25 minutes.",
+        "Let stand for 15 minutes before serving."
+      ],
+      "difficulty": "Intermediate",
+      "prepTime": "30 minutes",
+      "nutrition": {
+        "calories": 450,
+        "protein_g": 30.0,
+        "fat_g": 20.0,
+        "carbs_g": 35.0
+      }
+    },
+    {
+      "id": 21,
+      "title": "Quinoa Salad with Chickpeas",
+      "description": "A refreshing and protein-packed salad perfect for a light lunch or side dish.",
+      "ingredients": [
+        "1 cup quinoa",
+        "2 cups water",
+        "1 can (15 oz) chickpeas, drained and rinsed",
+        "1 cucumber, diced",
+        "1 bell pepper, diced",
+        "½ red onion, finely chopped",
+        "¼ cup chopped fresh parsley",
+        "Juice of 1 lemon",
+        "2 tablespoons olive oil",
+        "Salt and pepper to taste"
+      ],
+      "image": "/images/quinoaChickpeaSalad.png",
+      "directions": [
+        "Rinse quinoa under cold water.",
+        "Bring 2 cups of water and quinoa to a boil, reduce heat and simmer for 15 minutes or until water is absorbed.",
+        "Fluff with a fork and let cool.",
+        "In a large bowl, combine quinoa, chickpeas, cucumber, bell pepper, red onion, and parsley.",
+        "Whisk lemon juice, olive oil, salt, and pepper in a small bowl.",
+        "Pour dressing over the salad and toss well.",
+        "Chill before serving."
+      ],
+      "difficulty": "Easy",
+      "prepTime": "20 minutes",
+      "nutrition": {
+        "calories": 320,
+        "protein_g": 12.0,
+        "fat_g": 10.0,
+        "carbs_g": 40.0
+      }
+    },
+    {
+      "id": 22,
+      "title": "Chicken Caesar Wrap",
+      "description": "A fresh, flavorful chicken Caesar salad wrapped in a tortilla for an easy lunch or dinner.",
+      "ingredients": [
+        "2 grilled chicken breasts, sliced",
+        "4 whole wheat tortillas",
+        "2 cups Romaine lettuce, chopped",
+        "½ cup Caesar dressing",
+        "1 cup shredded Parmesan cheese",
+        "1 tablespoon olive oil"
+      ],
+      "image": "/images/chickenCaesarWrap.png",
+      "directions": [
+        "Warm tortillas in a skillet over medium heat.",
+        "In a large bowl, toss together the lettuce, grilled chicken, Caesar dressing, and Parmesan cheese.",
+        "Place the mixture on the center of each tortilla and wrap tightly.",
+        "Serve with extra Caesar dressing for dipping."
+      ],
+      "difficulty": "Easy",
+      "prepTime": "15 minutes",
+      "nutrition": {
+        "calories": 420,
+        "protein_g": 38.0,
+        "fat_g": 18.0,
+        "carbs_g": 35.0
+      }
+    },
+    {
+      "id": 23,
+      "title": "Stuffed Bell Peppers",
+      "description": "Bell peppers filled with seasoned ground turkey, rice, and topped with cheese, then baked to perfection.",
+      "ingredients": [
+        "4 bell peppers, tops cut off and seeds removed",
+        "1 lb ground turkey",
+        "1 cup cooked rice",
+        "1 cup marinara sauce",
+        "1 cup shredded mozzarella cheese",
+        "½ cup onion, diced",
+        "2 cloves garlic, minced",
+        "Salt and pepper to taste"
+      ],
+      "image": "/images/stuffedBellPeppers.png",
+      "directions": [
+        "Preheat oven to 375°F (190°C).",
+        "In a skillet, sauté onion and garlic until soft, then add ground turkey and cook until browned.",
+        "Stir in marinara sauce, cooked rice, salt, and pepper, and cook for an additional 5 minutes.",
+        "Stuff the bell peppers with the turkey mixture and place in a baking dish.",
+        "Top with mozzarella cheese and bake for 20 minutes, or until peppers are tender."
+      ],
+      "difficulty": "Intermediate",
+      "prepTime": "30 minutes",
+      "nutrition": {
+        "calories": 350,
+        "protein_g": 28.0,
+        "fat_g": 16.0,
+        "carbs_g": 32.0
+      }
+    },
+    {
+      "id": 24,
+      "title": "Shrimp Tacos",
+      "description": "Spicy shrimp cooked to perfection and served in soft tortillas with fresh toppings.",
+      "ingredients": [
+        "1 lb shrimp, peeled and deveined",
+        "1 tablespoon olive oil",
+        "1 teaspoon chili powder",
+        "1 teaspoon cumin",
+        "1 teaspoon garlic powder",
+        "1 lime, sliced",
+        "Corn tortillas",
+        "Shredded cabbage",
+        "Sour cream",
+        "Fresh cilantro, chopped"
+      ],
+      "image": "/images/shrimpTacos.png",
+      "directions": [
+        "In a bowl, toss shrimp with olive oil, chili powder, cumin, garlic powder, and lime juice.",
+        "Heat a skillet over medium-high heat and cook shrimp for 2-3 minutes per side until pink and opaque.",
+        "Warm tortillas in a skillet and assemble tacos with shrimp, shredded cabbage, a dollop of sour cream, and cilantro.",
+        "Serve with lime wedges."
+      ],
+      "difficulty": "Easy",
+      "prepTime": "20 minutes",
+      "nutrition": {
+        "calories": 320,
+        "protein_g": 24.0,
+        "fat_g": 12.0,
+        "carbs_g": 28.0
+      }
+    },
+    {
+      "id": 25,
+      "title": "Vegetable Quiche",
+      "description": "A savory quiche filled with a mix of vegetables, eggs, and cheese in a flaky crust.",
+      "ingredients": [
+        "1 pie crust",
+        "4 large eggs",
+        "1 cup heavy cream",
+        "1 cup shredded cheese",
+        "1 cup broccoli, chopped",
+        "½ cup bell pepper, diced",
+        "½ cup onions, diced",
+        "Salt and pepper to taste"
+      ],
+      "image": "/images/VegQuiche.png",
+      "directions": [
+        "Preheat oven to 350°F (175°C).",
+        "In a skillet, sauté onions, bell pepper, and broccoli until softened.",
+        "In a bowl, whisk together eggs, heavy cream, cheese, salt, and pepper.",
+        "Add sautéed vegetables to the egg mixture and pour into the pie crust.",
+        "Bake for 30-35 minutes or until the center is set and the top is golden brown."
+      ],
+      "difficulty": "Intermediate",
+      "prepTime": "25 minutes",
+      "nutrition": {
+        "calories": 350,
+        "protein_g": 14.0,
+        "fat_g": 28.0,
+        "carbs_g": 18.0
+      }
+    },
+    {
+      "id": 26,
+      "title": "Baked Ziti",
+      "description": "A comforting baked pasta dish with marinara sauce, cheese, and Italian sausage.",
+      "ingredients": [
+        "1 lb ziti pasta",
+        "1 lb Italian sausage",
+        "1 jar marinara sauce",
+        "2 cups ricotta cheese",
+        "2 cups shredded mozzarella cheese",
+        "1 cup grated Parmesan cheese",
+        "1 egg",
+        "Salt and pepper to taste"
+      ],
+      "image": "/images/bakedZiti.png",
+      "directions": [
+        "Preheat oven to 375°F (190°C).",
+        "Cook ziti pasta according to package instructions, drain.",
+        "In a skillet, cook sausage until browned, then add marinara sauce and simmer for 10 minutes.",
+        "In a bowl, mix ricotta, egg, and half of the Parmesan cheese. Season with salt and pepper.",
+        "In a baking dish, layer pasta, meat sauce, ricotta mixture, and mozzarella. Repeat layers.",
+        "Top with remaining Parmesan and bake for 20-25 minutes."
+      ],
+      "difficulty": "Intermediate",
+      "prepTime": "40 minutes",
+      "nutrition": {
+        "calories": 500,
+        "protein_g": 28.0,
+        "fat_g": 20.0,
+        "carbs_g": 50.0
+      }
+    },
+    {
+      "id": 27,
+      "title": "Penne alla Vodka",
+      "description": "A creamy tomato and vodka sauce served over penne pasta, perfect for any occasion.",
+      "ingredients": [
+        "1 lb penne pasta",
+        "1 cup heavy cream",
+        "½ cup vodka",
+        "1 jar marinara sauce",
+        "2 tablespoons olive oil",
+        "2 cloves garlic, minced",
+        "Salt and pepper to taste",
+        "Fresh basil, chopped"
+      ],
+      "image": "/images/vodkaPasta.png",
+      "directions": [
+        "Cook penne pasta according to package instructions; drain.",
+        "In a skillet, sauté garlic in olive oil until fragrant, then add vodka and cook for 2 minutes.",
+        "Stir in marinara sauce and heavy cream. Simmer for 5 minutes.",
+        "Add cooked pasta to the sauce and toss to coat. Season with salt and pepper.",
+        "Garnish with fresh basil and serve."
+      ],
+      "difficulty": "Easy",
+      "prepTime": "25 minutes",
+      "nutrition": {
+        "calories": 490,
+        "protein_g": 14.0,
+        "fat_g": 22.0,
+        "carbs_g": 62.0
+      }
+    },
+    {
+      "id": 28,
+      "title": "Beef Wellington",
+      "description": "A luxurious beef dish wrapped in puff pastry with mushrooms and pâté, perfect for special occasions.",
+      "ingredients": [
+        "2 lb beef tenderloin",
+        "1 sheet puff pastry",
+        "½ cup mushroom duxelles",
+        "¼ cup pâté",
+        "1 egg, beaten",
+        "Salt and pepper to taste"
+      ],
+      "image": "/images/beef-wellington.png",
+      "directions": [
+        "Preheat oven to 400°F (200°C).",
+        "Season beef with salt and pepper, sear in a hot pan until browned on all sides.",
+        "Let beef cool, then spread pâté and mushroom duxelles over it.",
+        "Wrap beef in puff pastry and brush with egg wash.",
+        "Bake for 35-40 minutes until golden brown and cooked to desired doneness."
+      ],
+      "difficulty": "Expert",
+      "prepTime": "45 minutes",
+      "nutrition": {
+        "calories": 700,
+        "protein_g": 50.0,
+        "fat_g": 45.0,
+        "carbs_g": 35.0
+      }
+    },
+    {
+      "id": 29,
+      "title": "Pulled Pork Sandwiches",
+      "description": "Slow-cooked pork shoulder shredded and served on a bun with barbecue sauce.",
+      "ingredients": [
+        "3 lb pork shoulder",
+        "1 onion, chopped",
+        "1 cup barbecue sauce",
+        "6 sandwich buns",
+        "Salt and pepper to taste"
+      ],
+      "image": "/images/pulled-pork-sandwiches.png",
+      "directions": [
+        "Season pork shoulder with salt and pepper, then slow cook in a crockpot for 6-8 hours.",
+        "Shred the pork using two forks and mix with barbecue sauce.",
+        "Serve on sandwich buns with extra sauce and chopped onion."
+      ],
+      "difficulty": "Easy",
+      "prepTime": "10 minutes (slow cook for 6-8 hours)",
+      "nutrition": {
+        "calories": 600,
+        "protein_g": 40.0,
+        "fat_g": 25.0,
+        "carbs_g": 60.0
+      }
+    },
+    {
+      "id": 30,
+      "title": "Classic Margherita Pizza",
+      "description": "A simple Italian pizza with fresh mozzarella, tomatoes, and basil.",
+      "ingredients": [
+        "1 pizza dough",
+        "1/2 cup tomato sauce",
+        "8 oz fresh mozzarella cheese, sliced",
+        "Fresh basil leaves",
+        "2 tablespoons olive oil",
+        "Salt and pepper to taste"
+      ],
+      "image": "/images/margheritaPizza.png",
+      "directions": [
+        "Preheat oven to 475°F (245°C).",
+        "Roll out the pizza dough and place on a baking sheet.",
+        "Spread tomato sauce evenly over the dough.",
+        "Top with mozzarella slices and fresh basil leaves.",
+        "Drizzle with olive oil and season with salt and pepper.",
+        "Bake for 12-15 minutes until crust is golden brown."
+      ],
+      "difficulty": "Easy",
+      "prepTime": "20 minutes",
+      "nutrition": {
+        "calories": 300,
+        "protein_g": 12.0,
+        "fat_g": 10.0,
+        "carbs_g": 35.0
+      }
+    },
+    {
+      "id": 31,
+      "title": "Grilled Chicken and Vegetables",
+      "description": "A healthy and flavorful grilled chicken served with assorted vegetables.",
+      "ingredients": [
+        "2 chicken breasts",
+        "1 zucchini, sliced",
+        "1 bell pepper, sliced",
+        "1 tablespoon olive oil",
+        "Salt and pepper to taste"
+      ],
+      "image": "/images/grilledChx+Veg.png",
+      "directions": [
+        "Preheat grill to medium-high heat.",
+        "Brush chicken and vegetables with olive oil; season with salt and pepper.",
+        "Grill chicken for 6-7 minutes per side until cooked through.",
+        "Grill vegetables for 4-5 minutes until tender.",
+        "Serve chicken with grilled vegetables."
+      ],
+      "difficulty": "Easy",
+      "prepTime": "30 minutes",
+      "nutrition": {
+        "calories": 350,
+        "protein_g": 30.0,
+        "fat_g": 15.0,
+        "carbs_g": 10.0
+      }
+    },
+    {
+      "id": 32,
+      "title": "One-Pot Chili Con Carne",
+      "description": "A hearty chili with ground beef, kidney beans, and tomato sauce.",
+      "ingredients": [
+        "500g ground beef",
+        "1 can kidney beans",
+        "1 cup tomato sauce",
+        "1 onion, diced",
+        "2 cloves garlic, minced",
+        "1 tablespoon chili powder",
+        "Salt and pepper to taste"
+      ],
+      "image": "/images/onePotChiliConCarne.png",
+      "directions": [
+        "In a large pot, brown ground beef over medium heat; drain excess fat.",
+        "Add onion and garlic; cook until softened.",
+        "Stir in kidney beans, tomato sauce, chili powder, salt, and pepper.",
+        "Simmer for 20 minutes, stirring occasionally.",
+        "Serve hot with desired toppings."
+      ],
+      "difficulty": "Easy",
+      "prepTime": "30 minutes",
+      "nutrition": {
+        "calories": 400,
+        "protein_g": 25.0,
+        "fat_g": 20.0,
+        "carbs_g": 30.0
+      }
+    },
+    {
+      "id": 33,
+      "title": "Overnight Oats with Chia Seeds",
+      "description": "A no-cook breakfast option with oats, chia seeds, and fresh fruits.",
+      "ingredients": [
+        "1/2 cup rolled oats",
+        "1 tablespoon chia seeds",
+        "1 cup milk or milk alternative",
+        "1/2 banana, sliced",
+        "1/4 cup berries",
+        "1 tablespoon honey"
+      ],
+      "image": "/images/overnightOats+Chia.png",
+      "directions": [
+        "In a jar, combine oats, chia seeds, and milk; stir well.",
+        "Add sliced banana and berries on top.",
+        "Drizzle with honey.",
+        "Cover and refrigerate overnight.",
+        "Stir before serving."
+      ],
+      "difficulty": "Easy",
+      "prepTime": "10 minutes",
+      "nutrition": {
+        "calories": 300,
+        "protein_g": 8.0,
+        "fat_g": 7.0,
+        "carbs_g": 50.0
+      }
+    },
+    {
+      "id": 34,
+      "title": "Tuna Nicoise Salad",
+      "description": "A French salad with tuna, green beans, potatoes, and olives.",
+      "ingredients": [
+        "1 can tuna",
+        "1 cup green beans, blanched",
+        "2 boiled potatoes, sliced",
+        "1/4 cup black olives",
+        "2 hard-boiled eggs, halved",
+        "2 tablespoons vinaigrette"
+      ],
+      "image": "/images/nicoise_salad.png",
+      "directions": [
+        "Arrange tuna, green beans, potatoes, olives, and eggs on a plate.",
+        "Drizzle with vinaigrette.",
+        "Season with salt and pepper.",
+        "Serve chilled or at room temperature."
+      ],
+      "difficulty": "Intermediate",
+      "prepTime": "25 minutes",
+      "nutrition": {
+        "calories": 390,
+        "protein_g": 26.0,
+        "fat_g": 22.0,
+        "carbs_g": 20.0
+      }
+    },
+    {
+      "id": 35,
+      "title": "Butternut Squash Soup",
+      "description": "A creamy and comforting soup perfect for fall.",
+      "ingredients": [
+        "1 butternut squash, peeled and cubed",
+        "1 onion, chopped",
+        "2 cups vegetable broth",
+        "1/2 cup cream",
+        "1 tablespoon olive oil",
+        "Salt, pepper, nutmeg to taste"
+      ],
+      "image": "/images/butternut_soup.png",
+      "directions": [
+        "Sauté onion in olive oil until soft.",
+        "Add squash and broth; bring to a boil and simmer until tender.",
+        "Blend until smooth.",
+        "Stir in cream, nutmeg, salt, and pepper.",
+        "Heat through and serve warm."
+      ],
+      "difficulty": "Easy",
+      "prepTime": "40 minutes",
+      "nutrition": {
+        "calories": 220,
+        "protein_g": 3.0,
+        "fat_g": 10.0,
+        "carbs_g": 30.0
+      }
+    },
+    {
+      "id": 36,
+      "title": "Thai Green Curry",
+      "description": "A fragrant Thai green curry with chicken and vegetables in coconut milk.",
+      "ingredients": [
+        "1 lb chicken breast, sliced",
+        "1 tbsp green curry paste",
+        "1 can coconut milk",
+        "1 cup mixed vegetables",
+        "1 tbsp fish sauce",
+        "1 tsp sugar"
+      ],
+      "image": "/images/green_curry.png",
+      "directions": [
+        "Cook curry paste in a pan until aromatic.",
+        "Add chicken and stir until browned.",
+        "Pour in coconut milk and bring to a boil.",
+        "Add vegetables, fish sauce, and sugar.",
+        "Simmer for 15 minutes and serve."
+      ],
+      "difficulty": "Intermediate",
+      "prepTime": "35 minutes",
+      "nutrition": {
+        "calories": 480,
+        "protein_g": 28.0,
+        "fat_g": 32.0,
+        "carbs_g": 18.0
+      }
+    },
+    {
+      "id": 37,
+      "title": "Lentil Stew",
+      "description": "A hearty and nutritious stew with lentils and vegetables.",
+      "ingredients": [
+        "1 cup lentils",
+        "1 carrot, chopped",
+        "1 celery stalk, chopped",
+        "1 onion, chopped",
+        "2 cups vegetable broth",
+        "1 tablespoon olive oil",
+        "Spices to taste"
+      ],
+      "image": "/images/lentil_stew.png",
+      "directions": [
+        "Sauté onion, carrot, and celery in olive oil.",
+        "Add lentils and broth; bring to boil.",
+        "Simmer for 30 minutes or until lentils are tender.",
+        "Season with salt, pepper, and desired spices.",
+        "Serve hot."
+      ],
+      "difficulty": "Easy",
+      "prepTime": "40 minutes",
+      "nutrition": {
+        "calories": 280,
+        "protein_g": 18.0,
+        "fat_g": 6.0,
+        "carbs_g": 35.0
+      }
+    },
+    {
+      "id": 38,
+      "title": "Chickpea Curry",
+      "description": "A hearty and flavorful vegetarian curry made with chickpeas and spices.",
+      "ingredients": [
+        "2 cups canned chickpeas",
+        "1 onion, diced",
+        "2 tomatoes, chopped",
+        "1 tbsp curry powder",
+        "1/2 cup coconut milk",
+        "1 tbsp olive oil"
+      ],
+      "image": "/images/chickpea_curry.png",
+      "directions": [
+        "Heat olive oil in a pan and sauté onion.",
+        "Add tomatoes and cook until soft.",
+        "Stir in curry powder and cook for 1 minute.",
+        "Add chickpeas and coconut milk.",
+        "Simmer for 15–20 minutes.",
+        "Serve with rice or naan."
+      ],
+      "difficulty": "Easy",
+      "prepTime": "30 minutes",
+      "nutrition": {
+        "calories": 340,
+        "protein_g": 12.0,
+        "fat_g": 14.0,
+        "carbs_g": 40.0
+      }
+    },
+    {
+      "id": 39,
+      "title": "Falafel Wrap",
+      "description": "A Middle Eastern favorite made with crispy falafel and fresh veggies in a wrap.",
+      "ingredients": [
+        "6 falafel balls",
+        "1 pita or wrap",
+        "1/4 cup hummus",
+        "Lettuce",
+        "Tomato slices",
+        "Cucumber slices"
+      ],
+      "image": "/images/falafel_wrap.png",
+      "directions": [
+        "Warm the pita or wrap.",
+        "Spread hummus down the center.",
+        "Add falafel, lettuce, tomato, and cucumber.",
+        "Wrap tightly and serve."
+      ],
+      "difficulty": "Easy",
+      "prepTime": "15 minutes",
+      "nutrition": {
+        "calories": 410,
+        "protein_g": 13.0,
+        "fat_g": 18.0,
+        "carbs_g": 45.0
+      }
+    },
+    {
+      "id": 40,
+      "title": "Seafood Paella",
+      "description": "A Spanish rice dish packed with shrimp, mussels, and aromatic spices.",
+      "ingredients": [
+        "1 cup rice",
+        "1/2 lb shrimp",
+        "1/2 lb mussels",
+        "1 bell pepper, chopped",
+        "2 cups chicken broth",
+        "1 tsp paprika"
+      ],
+      "image": "/images/seafood_paella.png",
+      "directions": [
+        "Sauté bell pepper and rice until lightly browned.",
+        "Add broth and paprika, bring to a boil.",
+        "Reduce heat and simmer for 10 minutes.",
+        "Add shrimp and mussels; cook until done.",
+        "Let stand 5 minutes before serving."
+      ],
+      "difficulty": "Expert",
+      "prepTime": "45 minutes",
+      "nutrition": {
+        "calories": 520,
+        "protein_g": 30.0,
+        "fat_g": 10.0,
+        "carbs_g": 60.0
+      }
+    },
+    {
+      "id": 41,
+      "title": "Quinoa Stuffed Tomatoes",
+      "description": "A light and healthy dish of tomatoes stuffed with herbed quinoa.",
+      "ingredients": [
+        "4 large tomatoes",
+        "1 cup cooked quinoa",
+        "1/4 cup feta cheese",
+        "2 tbsp parsley",
+        "1 tbsp olive oil",
+        "Salt and pepper"
+      ],
+      "image": "/images/stuffed_tomatoes.png",
+      "directions": [
+        "Cut tops off tomatoes and scoop out centers.",
+        "Mix quinoa, feta, parsley, olive oil, salt, and pepper.",
+        "Stuff tomatoes with mixture.",
+        "Bake at 375°F for 15–20 minutes.",
+        "Serve warm."
+      ],
+      "difficulty": "Intermediate",
+      "prepTime": "30 minutes",
+      "nutrition": {
+        "calories": 260,
+        "protein_g": 9.0,
+        "fat_g": 12.0,
+        "carbs_g": 28.0
+      }
+    },
+    {
+      "id": 42,
+      "title": "Korean Bibimbap",
+      "description": "A Korean rice bowl topped with vegetables, egg, and spicy gochujang sauce.",
+      "ingredients": [
+        "1 cup cooked rice",
+        "1/2 cup spinach",
+        "1/2 cup carrots, julienned",
+        "1/2 cup bean sprouts",
+        "1 fried egg",
+        "1 tbsp gochujang"
+      ],
+      "image": "/images/bibimbap.png",
+      "directions": [
+        "Sauté vegetables separately and set aside.",
+        "Place rice in bowl, arrange vegetables on top.",
+        "Add fried egg in the center.",
+        "Top with gochujang sauce.",
+        "Mix before eating."
+      ],
+      "difficulty": "Intermediate",
+      "prepTime": "35 minutes",
+      "nutrition": {
+        "calories": 420,
+        "protein_g": 14.0,
+        "fat_g": 10.0,
+        "carbs_g": 65.0
+      }
+    },
+    {
+      "id": 43,
+      "title": "Lemon Garlic Asparagus Pasta",
+      "description": "Light pasta tossed with sautéed asparagus and a zesty lemon garlic sauce.",
+      "ingredients": [
+        "8 oz spaghetti",
+        "1 bunch asparagus, chopped",
+        "2 cloves garlic, minced",
+        "2 tbsp olive oil",
+        "1 tbsp lemon juice",
+        "Salt and pepper"
+      ],
+      "image": "/images/lemonGarlicPasta.png",
+      "directions": [
+        "Cook pasta until al dente.",
+        "Sauté asparagus and garlic in olive oil.",
+        "Toss pasta with asparagus, lemon juice, salt, and pepper."
+      ],
+      "difficulty": "Easy",
+      "prepTime": "25 minutes",
+      "nutrition": {
+        "calories": 410,
+        "protein_g": 12.0,
+        "fat_g": 14.0,
+        "carbs_g": 60.0
+      }
+    },
+    {
+      "id": 44,
+      "title": "Peanut Butter Banana Smoothie",
+      "description": "A creamy smoothie with peanut butter, banana, and a hint of honey.",
+      "ingredients": [
+        "1 banana",
+        "2 tbsp peanut butter",
+        "1 cup milk or almond milk",
+        "1 tsp honey",
+        "1/2 cup ice"
+      ],
+      "image": "/images/pbSmoothie.png",
+      "directions": [
+        "Combine all ingredients in a blender.",
+        "Blend until smooth and creamy.",
+        "Serve chilled."
+      ],
+      "difficulty": "Easy",
+      "prepTime": "5 minutes",
+      "nutrition": {
+        "calories": 320,
+        "protein_g": 9.0,
+        "fat_g": 15.0,
+        "carbs_g": 38.0
+      }
+    },
+    {
+      "id": 45,
+      "title": "Zucchini Noodles with Pesto",
+      "description": "Low-carb zucchini noodles tossed in a homemade pesto sauce.",
+      "ingredients": [
+        "2 zucchinis, spiralized",
+        "1/4 cup basil pesto",
+        "1 tbsp olive oil",
+        "1/4 cup cherry tomatoes",
+        "Salt and pepper"
+      ],
+      "image": "/images/zoodles_pesto.png",
+      "directions": [
+        "Heat olive oil in a skillet.",
+        "Add zucchini noodles and sauté for 2–3 minutes.",
+        "Stir in pesto and cherry tomatoes.",
+        "Cook for 2 more minutes and serve."
+      ],
+      "difficulty": "Easy",
+      "prepTime": "15 minutes",
+      "nutrition": {
+        "calories": 230,
+        "protein_g": 5.0,
+        "fat_g": 18.0,
+        "carbs_g": 10.0
+      }
+    },
+    {
+      "id": 46,
+      "title": "Beef Bulgogi",
+      "description": "A Korean-style marinated beef dish served with rice and kimchi.",
+      "ingredients": [
+        "1 lb thin-sliced beef",
+        "2 tbsp soy sauce",
+        "1 tbsp sugar",
+        "1 tsp sesame oil",
+        "2 cloves garlic, minced",
+        "1/2 onion, sliced"
+      ],
+      "image": "/images/beef_bulgogi.png",
+      "directions": [
+        "Mix soy sauce, sugar, sesame oil, and garlic to make marinade.",
+        "Marinate beef for 30 minutes.",
+        "Sauté onions and beef until cooked through.",
+        "Serve with rice and kimchi."
+      ],
+      "difficulty": "Intermediate",
+      "prepTime": "30 minutes",
+      "nutrition": {
+        "calories": 490,
+        "protein_g": 33.0,
+        "fat_g": 24.0,
+        "carbs_g": 32.0
+      }
+    },
+    {
+      "id": 47,
+      "title": "Tofu Stir Fry",
+      "description": "A quick stir fry with crispy tofu and colorful vegetables.",
+      "ingredients": [
+        "1 block tofu, cubed",
+        "1 cup broccoli florets",
+        "1/2 bell pepper, sliced",
+        "2 tbsp soy sauce",
+        "1 tbsp sesame oil",
+        "1 tsp ginger, grated"
+      ],
+      "image": "/images/tofu_stirfry.png",
+      "directions": [
+        "Fry tofu cubes until golden.",
+        "Remove tofu and stir-fry vegetables in sesame oil.",
+        "Add tofu back in with soy sauce and ginger.",
+        "Cook for 3–5 minutes and serve."
+      ],
+      "difficulty": "Easy",
+      "prepTime": "20 minutes",
+      "nutrition": {
+        "calories": 310,
+        "protein_g": 16.0,
+        "fat_g": 18.0,
+        "carbs_g": 20.0
+      }
+    },
+    {
+      "id": 48,
+      "title": "Classic Tuna Salad",
+      "description": "A refreshing tuna salad with celery, onion, and creamy dressing.",
+      "ingredients": [
+        "1 can tuna, drained",
+        "2 tbsp mayonnaise",
+        "1 tbsp diced onion",
+        "1 tbsp diced celery",
+        "Salt and pepper",
+        "Lettuce leaves"
+      ],
+      "image": "/images/tuna_salad.png",
+      "directions": [
+        "Mix tuna, mayo, onion, and celery in a bowl.",
+        "Season with salt and pepper.",
+        "Serve on lettuce leaves or bread."
+      ],
+      "difficulty": "Easy",
+      "prepTime": "10 minutes",
+      "nutrition": {
+        "calories": 250,
+        "protein_g": 22.0,
+        "fat_g": 16.0,
+        "carbs_g": 4.0
+      }
+    },
+    {
+      "id": 49,
+      "title": "Sweet Potato Hash",
+      "description": "A hearty breakfast hash made with sweet potatoes, eggs, and veggies.",
+      "ingredients": [
+        "2 sweet potatoes, diced",
+        "1/2 onion, diced",
+        "1 bell pepper, chopped",
+        "2 eggs",
+        "1 tbsp olive oil",
+        "Salt and pepper"
+      ],
+      "image": "/images/sweet_potato_hash.png",
+      "directions": [
+        "Sauté sweet potatoes in olive oil until tender.",
+        "Add onion and bell pepper; cook until soft.",
+        "Make wells and crack eggs in pan.",
+        "Cover and cook until eggs are set."
+      ],
+      "difficulty": "Intermediate",
+      "prepTime": "30 minutes",
+      "nutrition": {
+        "calories": 360,
+        "protein_g": 14.0,
+        "fat_g": 18.0,
+        "carbs_g": 36.0
+      }
+    },
+    {
+      "id": 50,
+      "title": "Caprese Salad",
+      "description": "A light Italian salad with fresh mozzarella, tomatoes, and basil.",
+      "ingredients": [
+        "Fresh mozzarella slices",
+        "Tomato slices",
+        "Fresh basil leaves",
+        "Olive oil",
+        "Balsamic vinegar",
+        "Salt and pepper"
+      ],
+      "image": "/images/caprese_salad.png",
+      "directions": [
+        "Arrange tomato and mozzarella slices on a plate.",
+        "Top with basil leaves.",
+        "Drizzle with olive oil and balsamic vinegar.",
+        "Sprinkle with salt and pepper."
+      ],
+      "difficulty": "Easy",
+      "prepTime": "10 minutes",
+      "nutrition": {
+        "calories": 280,
+        "protein_g": 12.0,
+        "fat_g": 20.0,
+        "carbs_g": 8.0
+      }
+    }
+]
